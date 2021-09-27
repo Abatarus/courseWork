@@ -1,0 +1,10 @@
+.Comment {
+    border-color: black;
+    background-color: palegreen;
+    border:2px solid #000;
+
+}
+
+.Comment .delete_text {
+    color: darkred;
+}

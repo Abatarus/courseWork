@@ -1,0 +1,25 @@
+.ThemeTable tr{
+    background-color: lawngreen;
+}
+
+.ThemeTable{
+    border-color: black;
+    background-color: greenyellow;
+    border: 3px solid #000;
+}
+.CreateTheme {
+    border-color: black;
+    background-color: greenyellow;
+    border: 3px solid #000;
+    height: 225px;
+}
+
+.Theme {
+    border-color: black;
+    background-color: greenyellow;
+    border: 3px solid #000;
+
+}
+.ThemeText {
+    background-color: palegreen;
+}
